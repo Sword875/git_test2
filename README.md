@@ -1,4 +1,4 @@
 # git_test2
 another test
 hello!
-master branch.
+it's done!
